@@ -1,0 +1,7 @@
+.form{
+    display: grid;
+    justify-content: space-between;
+    align-items: end;
+    height: 100px;
+    width: 80px;
+}
